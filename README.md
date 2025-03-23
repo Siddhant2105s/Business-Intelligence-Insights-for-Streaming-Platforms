@@ -1,5 +1,5 @@
 # Media Production Company Analysis 🎥
-
+_______________________________________________________________________________________________________________________________________________
 **1. Introduction**   
 
 The Media Production Company Analysis project aims to analyze audience preferences and opinions using datasets from IMDb, Rotten Tomatoes, and user reviews. The goal is to help Media Production Company, a leading production company in the Northern Hemisphere, understand how different movies are received by the public and how this information can be used to create future projects. The analysis focuses on three key areas:
