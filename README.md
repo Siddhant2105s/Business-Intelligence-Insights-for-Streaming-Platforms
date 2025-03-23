@@ -83,8 +83,19 @@ Recommendations:
 
 
 ## Dashboards ##
+
 ![Screenshot 2025-03-23 210341](https://github.com/user-attachments/assets/219cee7a-69d1-46c8-829c-3495cebeaae8)
 ![Screenshot 2025-03-23 210355](https://github.com/user-attachments/assets/d1bbbac3-7f75-4234-9f7f-d4c0c3181804)
+![Screenshot 2025-03-23 210410](https://github.com/user-attachments/assets/11b4f478-1477-4408-8a46-282ee98f1c2a)
+![Screenshot 2025-03-23 210423](https://github.com/user-attachments/assets/96ee17b9-e5e8-4158-81d7-7b2368e9c903)
+![Screenshot 2025-03-23 210423](https://github.com/user-attachments/assets/2c6a5aa1-374c-4024-ba53-dee60418a046)
+![Screenshot 2025-03-23 210443](https://github.com/user-attachments/assets/4a98bb14-8ab7-4642-9103-0f72359d43e9)
+![Screenshot 2025-03-23 210543](https://github.com/user-attachments/assets/26bb4162-b994-450e-98f4-78adfa854c00)
+
+
+
+
+
 
 
 
