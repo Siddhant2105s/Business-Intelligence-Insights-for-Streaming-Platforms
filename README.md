@@ -81,3 +81,10 @@ Recommendations:
 •	Continuous Monitoring: Regularly monitor audience sentiment and adapt strategies to shifting preferences and market dynamics.
 •	Content Acquisition: Prioritize acquiring rights to movies that align with positive audience sentiments and avoid elements that are less favoured by viewers.
 
+
+## Dashboards ##
+![Screenshot 2025-03-23 210341](https://github.com/user-attachments/assets/219cee7a-69d1-46c8-829c-3495cebeaae8)
+![Screenshot 2025-03-23 210355](https://github.com/user-attachments/assets/d1bbbac3-7f75-4234-9f7f-d4c0c3181804)
+
+
+
