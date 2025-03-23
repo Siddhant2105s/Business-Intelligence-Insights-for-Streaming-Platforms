@@ -53,17 +53,20 @@ The findings from the analysis are presented through Tableau visualizations and 
  Negative and Positive Reviews Over Time
 •	The number of positive and negative reviews was tracked over time for the selected movies.
 •	Positive reviews peaked during the streaming release and the pandemic, while negative reviews stabilized post-pandemic.
+
 Sentiment Distribution for Three Genres
 •	Sentiment distribution across various genres was analysed.
 •	Drama and comedy genres elicited the highest proportion of positive sentiment, while action had a more balanced distribution of positive and negative reviews.
+
 IMDb and Rotten Tomatoes Ratings
 •	A comparison of ratings from IMDb and Rotten Tomatoes revealed that IMDb users tend to Favor Warner Bros. productions, while Rotten Tomatoes critics prefer Lionsgate and 20th Century Fox productions.
 •	This insight can help Media Production Company tailor its marketing strategies to different audience segments.
+
 Positive Keywords Distribution
 •	Commonly used positive keywords in user reviews were identified.
 •	These keywords reveal key themes and elements that resonate well with audiences, helping Salt Productions prioritize content that aligns with audience preferences.
 ______________________________________________________________________________
-**4. Conclusion **
+**4. Conclusion**
 The Media Production Company Analysis project provides valuable insights into audience preferences, engagement trends, and sentiment distribution across different genres and platforms. The key findings and recommendations are as follows:
 Key Insights:
 •	Audience Engagement Trends: Sentiment trends fluctuate over time, influenced by factors such as release timing, critical events, and streaming availability.
