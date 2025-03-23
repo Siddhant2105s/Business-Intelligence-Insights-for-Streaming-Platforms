@@ -67,11 +67,14 @@ Positive Keywords Distribution
 •	These keywords reveal key themes and elements that resonate well with audiences, helping Salt Productions prioritize content that aligns with audience preferences.
 ______________________________________________________________________________
 **4. Conclusion**
+
 The Media Production Company Analysis project provides valuable insights into audience preferences, engagement trends, and sentiment distribution across different genres and platforms. The key findings and recommendations are as follows:
+
 Key Insights:
 •	Audience Engagement Trends: Sentiment trends fluctuate over time, influenced by factors such as release timing, critical events, and streaming availability.
 •	Genre Preferences: Drama and comedy genres elicit the highest proportion of positive sentiment, while action has a more balanced distribution.
 •	Platform Preferences: IMDb users prefer Warner Bros. productions, while Rotten Tomatoes critics favor Lionsgate and 20th Century Fox productions.
+
 Recommendations:
 •	Content Strategy: Media Production Company should focus on genres with higher positive sentiment (e.g., drama and comedy) and diversify content partnerships to cater to different audience segments.
 •	Marketing Campaigns: Tailor promotional campaigns to specific audience segments based on their preferred rating platforms (e.g., IMDb or Rotten Tomatoes).
