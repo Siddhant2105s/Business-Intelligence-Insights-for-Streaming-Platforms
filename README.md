@@ -1,15 +1,15 @@
 # Media Production Company Analysis 🎥
 
-**1. Introduction
-**   
+**1. Introduction**   
+
 The Media Production Company Analysis project aims to analyze audience preferences and opinions using datasets from IMDb, Rotten Tomatoes, and user reviews. The goal is to help Media Production Company, a leading production company in the Northern Hemisphere, understand how different movies are received by the public and how this information can be used to create future projects. The analysis focuses on three key areas:
 •	Sentiment Analysis: To determine the overall sentiment (positive, negative, or neutral) of user reviews.
 •	Comparative Analysis: To compare user ratings and reviews from IMDb and Rotten Tomatoes.
 •	Trend Analysis: To track changes in audience sentiment over time.
 The project provides actionable insights that can guide Media Production in making informed decisions about content creation, marketing strategies, and promotional campaigns.
 _______________________________________________________________________________________________________________________________________________
-**2. Methodology
-**
+**2. Methodology**
+
 Data Collection
 The data used in this project was collected from three primary sources:
 1.	IMDb:
@@ -43,8 +43,8 @@ Before analysis, the datasets underwent a thorough cleaning process to ensure ac
 2.	Rotten Tomatoes Dataset:
 •	The dataset was cleaned to include only relevant attributes, removing unnecessary columns.
 •	This ensured that the dataset was streamlined for comparative analysis with IMDb data.
-_____________________________________________________________________________________________________________________________________________________________________________________________-
-**3. Findings****
+______________________________________________________________________________
+**3. Findings**
   	
 The findings from the analysis are presented through Tableau visualizations and include the following key insights:
  Positive and Negative Audience Engagement
@@ -63,8 +63,7 @@ Positive Keywords Distribution
 •	Commonly used positive keywords in user reviews were identified.
 •	These keywords reveal key themes and elements that resonate well with audiences, helping Salt Productions prioritize content that aligns with audience preferences.
 ______________________________________________________________________________
-**4. Conclusion
-**
+**4. Conclusion **
 The Media Production Company Analysis project provides valuable insights into audience preferences, engagement trends, and sentiment distribution across different genres and platforms. The key findings and recommendations are as follows:
 Key Insights:
 •	Audience Engagement Trends: Sentiment trends fluctuate over time, influenced by factors such as release timing, critical events, and streaming availability.
